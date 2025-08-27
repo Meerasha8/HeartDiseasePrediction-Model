@@ -1,3 +1,4 @@
-pandas - to read and clean the dataset
-matplotlib and seaborn - to visualize our data
-sklearn - to train, evaluate and test our model to predict
+pandas
+matplotlib and seaborn
+sklearn-learn
+joblib
