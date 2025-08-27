@@ -13,7 +13,7 @@ Data preprocessing and cleaning for health-related datasets Training ML models f
 Technologies Used
 
 Python 3.x Numpy,
-Pandas -> Data Handling and Preprocessing
-Scikit-learn -> Machine learning algorithms
-Matplotlib, Seaborn -> Visualization
-Joblib -> Model saving and loading
+Pandas -> Data Handling and Preprocessing,
+Scikit-learn -> Machine learning algorithms,
+Matplotlib, Seaborn -> Visualization,
+Joblib -> Model saving and loading.
